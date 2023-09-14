@@ -1,4 +1,12 @@
-### Hi there 👋
+## Olá 👋
+
+### Quem sou eu?
+
+Me chamo Fernando Golinelli e, sempre, me aprendendo.
+
+- 🔭 Hoje, desenvolvendo ambientes web em PHP, HTML, CSS e mySQL
+- 🌱 E, estudando todos cursos da **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- 📫 Se quiser falar comigo, mande um e-mail para fernando@golinelli.eti.br com o assunto *__Te encontrei no Github__*
 
 <!--
 **fgolinelli/fgolinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
