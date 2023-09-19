@@ -2,7 +2,7 @@
 
 ### Quem sou eu?
 
-Me chamo Fernando Golinelli e, sempre, me aprendendo.
+Me chamo Fernando Golinelli.
 
 - 🔭 Hoje, desenvolvendo ambientes web em PHP, HTML, CSS e mySQL
 - 🌱 E, estudando todos cursos da **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
