@@ -12,8 +12,12 @@ Me chamo Fernando Golinelli.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70"/>
 
 ## Aprendendo 
-- React na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
 - Javascript completão na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- TypeScript na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- NodeJS na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- React na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- Next.JS na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
+- Mongo BD na **[Formação Dev](https://escola.formacao.dev)** da **[Cod3r](https://www.cod3r.com.br)**
 
 ## Já estudei
 - Web Security na **[HackerSec](https://hackersec.com)**
